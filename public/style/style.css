@@ -1,0 +1,14 @@
+/** @format */
+
+.label {
+  display: block;
+  margin: 5px 5px;
+}
+
+.table-data {
+  margin-top: 10px;
+}
+
+label {
+  display: block;
+}
