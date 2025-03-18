@@ -1,26 +1,12 @@
 [
   {
     "id": 1,
-    "userName": "arief",
+    "userName": "Arief Darmawan",
     "age": 20
   },
   {
     "id": 2,
     "userName": "arief2",
     "age": 20
-  },
-  {
-    "id": 3,
-    "userName": "arief darmawan",
-    "age": 20
-  },
-  {
-    "id": 4,
-    "age": null
-  },
-  {
-    "id": 5,
-    "userName": "fadillah dwi",
-    "age": 19
   }
 ]
