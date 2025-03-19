@@ -1,5 +1,10 @@
 /** @format */
 
+body {
+  background-color: rgb(92, 92, 92);
+  color: #fff;
+}
+
 .text-center {
   text-align: center;
 }
@@ -24,6 +29,9 @@ label {
 
 table {
   width: 100%;
+  background-color: #fff;
+  color: #000;
+  border-collapse: collapse;
 }
 
 tbody tr:nth-child(odd) {
@@ -33,4 +41,9 @@ tbody tr:nth-child(odd) {
 form[action="/delete"],
 form[action="/patch"] {
   display: inline-block;
+}
+
+.delete-button {
+  width: 50px;
+  height: 50px;
 }
